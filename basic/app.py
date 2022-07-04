@@ -18,4 +18,4 @@ remainder_of_numbers = 0  # Replace 0 with the remainder formula.
 print(f'The sum of {first_number} and {second_number} is: {sum_of_numbers}')
 print(f'The difference of {first_number} and {second_number} is: {difference_of_numbers}')
 print(f'The product of {first_number} and {second_number} is: {product_of_numbers}')
-print(f'The remainder of {first_number} and {second_number} is: {remainder_of_numbers}')
+print(f'The remainder of {first_number} divided by {second_number} is: {remainder_of_numbers}')
